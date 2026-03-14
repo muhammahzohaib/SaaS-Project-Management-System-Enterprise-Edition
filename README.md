@@ -1,6 +1,30 @@
-# 01 - SaaS Project Management System (Enterprise Edition)
+#  SaaS Project Management System (Enterprise Edition)
 
 A professional, multi-tenant SaaS platform for team collaboration and project management, architected with a focus on security, real-time updates, and data-driven insights.
+
+<p align="center">
+  <img src="/frontend//public/ss/11.png" alt="Preview 1" width="48%" />
+  <img src="/frontend//public/ss/12.png" alt="Preview 2" width="48%" />
+</p>
+
+<p align="center">
+  <img src="/frontend//public/ss/13.png" alt="Preview 3" width="48%" />
+  <img src="/frontend//public/ss/14.png" alt="Preview 4" width="48%" />
+</p>
+
+<p align="center">
+  <img src="/frontend//public/ss/15.png" alt="Preview 5" width="48%" />
+  <img src="/frontend//public/ss/16.png" alt="Preview 6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="/frontend//public/ss/17.png" alt="Preview 7" width="48%" />
+  <img src="/frontend//public/ss/18.png" alt="Preview 8" width="48%" />
+</p>
+<p align="center">
+  <img src="/frontend//public/ss/19.png" alt="Preview 7" width="48%" />
+  
+</p>
 
 ## 🚀 Key Features
 
@@ -100,4 +124,4 @@ Ensure your `backend/.env` contains:
 - `CORS_ORIGIN`: e.g., `http://localhost:3000`.
 
 ---
-*Developed by MuhaMad Zohaib as part of the 10 Projects Series.*
+*Developed by MuhaMad Zohaib *
